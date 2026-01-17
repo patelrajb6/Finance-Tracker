@@ -1,0 +1,17 @@
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/bin/Debug/net8.0/PersonalFinanceTracker.Data.deps.json
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/bin/Debug/net8.0/PersonalFinanceTracker.Data.dll
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/bin/Debug/net8.0/PersonalFinanceTracker.Data.pdb
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/bin/Debug/net8.0/PersonalFinanceTracker.Data.xml
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/bin/Debug/net8.0/PersonalFinanceTracker.Domain.dll
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/bin/Debug/net8.0/PersonalFinanceTracker.Domain.pdb
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/bin/Debug/net8.0/PersonalFinanceTracker.Domain.xml
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/obj/Debug/net8.0/PersonalFinanceTracker.Data.fsproj.AssemblyReference.cache
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/obj/Debug/net8.0/PersonalFinanceTracker.Data.AssemblyInfoInputs.cache
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/obj/Debug/net8.0/PersonalFinanceTracker.Data.AssemblyInfo.fs
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/obj/Debug/net8.0/PersonalFinanceTracker.Data.fsproj.CoreCompileInputs.cache
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/obj/Debug/net8.0/Personal.BCB3928B.Up2Date
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/obj/Debug/net8.0/PersonalFinanceTracker.Data.dll
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/obj/Debug/net8.0/refint/PersonalFinanceTracker.Data.dll
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/obj/Debug/net8.0/PersonalFinanceTracker.Data.xml
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/obj/Debug/net8.0/PersonalFinanceTracker.Data.pdb
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/obj/Debug/net8.0/ref/PersonalFinanceTracker.Data.dll

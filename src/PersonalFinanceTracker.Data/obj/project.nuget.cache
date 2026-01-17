@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "QBYN5VKLB2U=",
+  "success": true,
+  "projectFilePath": "/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/PersonalFinanceTracker.Data.fsproj",
+  "expectedPackageFiles": [
+    "/Users/rajpatel/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/Users/rajpatel/.nuget/packages/dapper.fsharp/4.7.0/dapper.fsharp.4.7.0.nupkg.sha512",
+    "/Users/rajpatel/.nuget/packages/fsharp.core/8.0.403/fsharp.core.8.0.403.nupkg.sha512",
+    "/Users/rajpatel/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/rajpatel/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/rajpatel/.nuget/packages/npgsql/8.0.0/npgsql.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Npgsql' 8.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "libraryId": "Npgsql",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

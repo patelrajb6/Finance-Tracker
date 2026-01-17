@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Repositories.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PersonalFinanceTracker.Domain\PersonalFinanceTracker.Domain.fsproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Dependencies would normally be added here via CLI, manually adding specific versions might be risky without knowing what's available, 
+         but for compilation's sake I'll list what would be needed. -->
+    <PackageReference Include="Npgsql" Version="8.0.0" />
+    <PackageReference Include="Dapper.FSharp" Version="4.7.0" />
+  </ItemGroup>
+
+</Project>

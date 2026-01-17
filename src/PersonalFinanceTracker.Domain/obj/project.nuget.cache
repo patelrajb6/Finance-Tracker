@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nG29kxSQTXw=",
+  "success": true,
+  "projectFilePath": "/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/PersonalFinanceTracker.Domain.fsproj",
+  "expectedPackageFiles": [
+    "/Users/rajpatel/.nuget/packages/fsharp.core/8.0.403/fsharp.core.8.0.403.nupkg.sha512"
+  ],
+  "logs": []
+}

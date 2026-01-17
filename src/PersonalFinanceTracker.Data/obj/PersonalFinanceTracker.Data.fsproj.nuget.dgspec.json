@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/PersonalFinanceTracker.Data.fsproj": {}
+  },
+  "projects": {
+    "/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/PersonalFinanceTracker.Data.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/PersonalFinanceTracker.Data.fsproj",
+        "projectName": "PersonalFinanceTracker.Data",
+        "projectPath": "/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/PersonalFinanceTracker.Data.fsproj",
+        "packagesPath": "/Users/rajpatel/.nuget/packages/",
+        "outputPath": "/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rajpatel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/8.0.417/FSharp/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/PersonalFinanceTracker.Domain.fsproj": {
+                "projectPath": "/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/PersonalFinanceTracker.Domain.fsproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper.FSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )",
+              "generatePathProperty": true
+            },
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[8.0.403, )",
+              "generatePathProperty": true
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/PersonalFinanceTracker.Domain.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/PersonalFinanceTracker.Domain.fsproj",
+        "projectName": "PersonalFinanceTracker.Domain",
+        "projectPath": "/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/PersonalFinanceTracker.Domain.fsproj",
+        "packagesPath": "/Users/rajpatel/.nuget/packages/",
+        "outputPath": "/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rajpatel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/8.0.417/FSharp/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[8.0.403, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

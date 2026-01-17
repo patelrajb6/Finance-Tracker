@@ -1,0 +1,13 @@
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/bin/Debug/net8.0/PersonalFinanceTracker.Domain.deps.json
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/bin/Debug/net8.0/PersonalFinanceTracker.Domain.dll
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/bin/Debug/net8.0/PersonalFinanceTracker.Domain.pdb
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/bin/Debug/net8.0/PersonalFinanceTracker.Domain.xml
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/obj/Debug/net8.0/PersonalFinanceTracker.Domain.fsproj.AssemblyReference.cache
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/obj/Debug/net8.0/PersonalFinanceTracker.Domain.AssemblyInfoInputs.cache
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/obj/Debug/net8.0/PersonalFinanceTracker.Domain.AssemblyInfo.fs
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/obj/Debug/net8.0/PersonalFinanceTracker.Domain.fsproj.CoreCompileInputs.cache
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/obj/Debug/net8.0/PersonalFinanceTracker.Domain.dll
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/obj/Debug/net8.0/refint/PersonalFinanceTracker.Domain.dll
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/obj/Debug/net8.0/PersonalFinanceTracker.Domain.xml
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/obj/Debug/net8.0/PersonalFinanceTracker.Domain.pdb
+/Users/rajpatel/Downloads/Personal-Finance-Tracker/src/PersonalFinanceTracker.Domain/obj/Debug/net8.0/ref/PersonalFinanceTracker.Domain.dll
