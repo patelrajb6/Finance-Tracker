@@ -1,0 +1,19 @@
+# Visual Studio Solution
+*.sln
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE directories
+.idea/
+.vscode/
+*.suo
+*.user
+
+# Build results
+bin/
+obj/
+
+# Logs
+*.log
